@@ -1,2 +1,2 @@
 # process-playground
-a public playground justfor messing with process development
+a public playground just for messing with process development, such as connecting to ZenHub etc, creating/pull requesting issues, etc
